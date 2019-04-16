@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.idexcel.KieDemoSpringbootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.004 s - in com.idexcel.KieDemoSpringbootApplicationTests

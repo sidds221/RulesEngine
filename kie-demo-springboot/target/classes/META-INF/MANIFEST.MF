@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: idexcel
+Build-Jdk: 9.0.4
+Implementation-Title: kie-demo-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.idexcel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/kie-demo-springboot
+Created-By: Maven Integration for Eclipse
+
